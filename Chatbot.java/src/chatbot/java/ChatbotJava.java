@@ -27,7 +27,7 @@ public class ChatBot extends JFrame implements KeyListener {
         {"how are you","how r u","how are u"},
         {"good","doing well"},
         //default
-        {"shut up","oil your own machine","don't have time to talk"},
+        {"shut up","Sam is not available right now","don't have time to talk"},
     };
     public static void main(String[] args) {
         new ChatBot();
